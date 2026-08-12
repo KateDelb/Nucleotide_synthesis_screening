@@ -1,0 +1,11 @@
+[project]
+name = "sequence-screening"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "biopython>=1.88",
+    "pyhmmer>=0.12.1",
+    "requests>=2.34.2",
+]
